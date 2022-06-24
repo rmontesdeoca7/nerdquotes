@@ -34,6 +34,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Controlar la complejidad es la esencia de la programación.
+
+* Brian Kernigan *
+
+-------
+
 > Better Call a Function! 
 
 *Saul Boot-man*
